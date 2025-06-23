@@ -11,7 +11,7 @@ $ export OPENAI_API_KEY=your-openai-key
 $ export TAVILY_API_KEY=your-tavily-key
 
 Or manually:
-modify vairable assignments in the .env file.
+Modify vairable assignments in the .env file.
 OPENAI_API_KEY=your-openai-key
 TAVILY_API_KEY=your-tavily-key
 
